@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.edit-block input, .edit-block button {
+  margin: 5px;
+}
+
+.edit-block input {
+  width: 20vw !important;
+}
+
+.new-task input, .new-task button {
+  margin: 5px;
+}
+
+.new-task {
+  width: 40vw !important;
+}
